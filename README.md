@@ -1,73 +1,41 @@
 # Hi, I'm Ahsan Baig Chughtai 👋
 
-### Aspiring AI Developer | Python • Linux • IoT • Automation
+**Aspiring AI Developer** · Python · JavaScript · Flutter · Linux · IoT · Automation
 
-I'm a technology enthusiast from Pakistan, interested in Artificial Intelligence, Large Language Models (LLMs), Software Development, and Intelligent Automation.
+I build practical things: AI-powered automation pipelines, mobile apps, and home IoT that controls real hardware.
 
-I enjoy building practical projects, experimenting with hardware and software, and understanding how complex systems work.
+## ⭐ Featured projects
 
-## What I'm Working On
+### [Automated Job Posting Pipeline](https://github.com/abchughtai786/automated-job-posting-pipeline)
+A Node.js pipeline that collects job listings, screens out scams and bad posts with rules and AI, removes duplicates, and publishes SEO-friendly job pages.
 
-- Developing a home IoT monitoring and automation system using Home Assistant, ESP controllers, MQTT, and Linux.
-- Exploring AI assistants, LLM applications, and workflow automation.
-- Learning more about Python backend development, databases, and system infrastructure.
-- Building practical projects and documenting my work on GitHub.
+`Node.js` `AI (Groq)` `WordPress API` `47 automated tests` `GitHub Actions`
 
-## Technologies I've Worked With
+### [Pintern: Flutter App Demo](https://github.com/abchughtai786/pintern-portfolio-demo) · [▶ Live demo](https://abchughtai786.github.io/pintern-portfolio-demo/)
+A demo of Pintern, the student jobs and scholarships app I co-founded. It has four roles (student, employer, campus ambassador, admin), admin approval of posts, and permission checks in the data layer.
 
-**Languages:** Python, SQL
+`Flutter` `Dart` `Firebase` `29 automated tests` `GitHub Pages`
 
-**Systems & Infrastructure:** Linux, Ubuntu Server, Raspberry Pi, Docker, Cloudflare Tunnels
+### [Smart Water Management IoT](https://github.com/abchughtai786/smart-water-management-iot)
+A real home system that monitors two water tanks with float sensors and runs the pumps automatically, with dry-run protection, power monitoring and phone alerts.
 
-**IoT & Automation:** ESP32, ESP8266, ESPEasy, MQTT, Mosquitto, Home Assistant, Sonoff
+`Home Assistant` `MQTT` `ESP32 / ESP8266` `Sonoff` `Docker` `Linux`
 
-**Databases & Monitoring:** PostgreSQL, SQLite, Grafana, Telegraf
+## 🛠️ Tech I work with
 
-**Development Tools:** Git, GitHub, Flask, FastAPI
+| Area | Tools |
+|---|---|
+| Languages | Python, JavaScript (Node.js), Dart, SQL |
+| AI | LLM APIs, prompt design, AI screening and content generation |
+| Systems | Linux, Ubuntu Server, Raspberry Pi, Docker, Cloudflare Tunnels |
+| IoT | ESP32, ESP8266, ESPEasy, MQTT, Mosquitto, Home Assistant, Sonoff |
+| Data and monitoring | PostgreSQL, SQLite, Grafana, Telegraf |
+| Frameworks and tools | Flutter, Flask, FastAPI, Git, GitHub Actions |
 
-##  Featured Projects
+## 📚 Currently learning
 
-### Smart Water Management & Home IoT Automation
-
-**[View Project on GitHub](https://github.com/abchughtai786/smart-water-management-iot)**
-
-A real-world home IoT project integrating water-level sensors, smart switches, and a Linux-based Home Assistant environment to monitor underground and overhead water tanks, manage pump operations, and track electrical measurements.
-
-**Key Features:**
-- Underground and overhead water tank monitoring
-- Water-level-based pump automation
-- MQTT communication with ESP devices
-- Voltage, current, and power monitoring
-- Mobile notification automation
-- Home Assistant monitoring dashboards
-- REST-based relay monitoring
-
-**Technologies:** Linux, Docker, Home Assistant, MQTT, ESPEasy, ESP32/ESP8266, Sonoff, YAML
-
-### AI & Automation Experiments
-
-Exploring artificial intelligence, large language models, Python applications, and intelligent workflow automation.
-
-My focus is on understanding how AI can be integrated into practical applications and everyday workflows.
-
-## Currently Learning
-
-- Large Language Models and AI application development
-- Machine learning fundamentals
-- Python backend development
-- Building reliable and secure systems
-- IoT system design and automation
-
-##  My Goal
-
-To grow into a skilled AI and software developer who builds useful, accessible technology that solves real-world problems.
-
-I'm focused on improving my programming skills, building practical projects, and gaining hands-on experience with modern development technologies.
-
-##  Location
-
-Pakistan 🇵🇰
+LLM application development · Machine learning fundamentals · Python backend development
 
 ---
 
-*Always learning. Always building.*
+*Always learning. Always building.* 🇵🇰
