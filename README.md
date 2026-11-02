@@ -21,6 +21,11 @@ A real home system that monitors two water tanks with float sensors and runs the
 
 `Home Assistant` `MQTT` `ESP32 / ESP8266` `Sonoff` `Docker` `Linux`
 
+### [Home Server Monitoring](https://github.com/abchughtai786/home-server-monitoring)
+A one-command monitoring stack for a Linux home server: disk health warnings, resources and containers in one Grafana dashboard.
+
+`Grafana` `InfluxDB` `Telegraf` `Docker Compose` `Linux`
+
 ## 🛠️ Tech I work with
 
 | Area | Tools |
@@ -29,7 +34,7 @@ A real home system that monitors two water tanks with float sensors and runs the
 | AI | LLM APIs, prompt design, AI screening and content generation |
 | Systems | Linux, Ubuntu Server, Raspberry Pi, Docker, Cloudflare Tunnels |
 | IoT | ESP32, ESP8266, ESPEasy, MQTT, Mosquitto, Home Assistant, Sonoff |
-| Data and monitoring | PostgreSQL, SQLite, Grafana, Telegraf |
+| Data and monitoring | PostgreSQL, SQLite, InfluxDB, Grafana, Telegraf |
 | Frameworks and tools | Flutter, Flask, FastAPI, Git, GitHub Actions |
 
 ## 📚 Currently learning
