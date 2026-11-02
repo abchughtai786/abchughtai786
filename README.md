@@ -1,8 +1,9 @@
-# Hi, I'm Ahsan Baig Chughtai 👋
-
-**Aspiring AI Developer** · Python · JavaScript · Flutter · Linux · IoT · Automation
-
-I build practical things: AI-powered automation pipelines, mobile apps, and home IoT that controls real hardware.
+<a href="https://github.com/abchughtai786">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <img alt="Ahsan Baig Chughtai's GitHub profile card" src="light_mode.svg">
+  </picture>
+</a>
 
 ## ⭐ Featured projects
 
@@ -25,22 +26,3 @@ A real home system that monitors two water tanks with float sensors and runs the
 A one-command monitoring stack for a Linux home server: disk health warnings, resources and containers in one Grafana dashboard.
 
 `Grafana` `InfluxDB` `Telegraf` `Docker Compose` `Linux`
-
-## 🛠️ Tech I work with
-
-| Area | Tools |
-|---|---|
-| Languages | Python, JavaScript (Node.js), Dart, SQL |
-| AI | LLM APIs, prompt design, AI screening and content generation |
-| Systems | Linux, Ubuntu Server, Raspberry Pi, Docker, Cloudflare Tunnels |
-| IoT | ESP32, ESP8266, ESPEasy, MQTT, Mosquitto, Home Assistant, Sonoff |
-| Data and monitoring | PostgreSQL, SQLite, InfluxDB, Grafana, Telegraf |
-| Frameworks and tools | Flutter, Flask, FastAPI, Git, GitHub Actions |
-
-## 📚 Currently learning
-
-LLM application development · Machine learning fundamentals · Python backend development
-
----
-
-*Always learning. Always building.* 🇵🇰
